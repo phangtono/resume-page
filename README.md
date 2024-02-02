@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [resume-page-code]()
-- Live Site URL: [resume-page-live-site]()
+- Solution URL: [resume-page-code](https://github.com/phangtono/resume-page)
+- Live Site URL: [resume-page-live-site](https://rainbow-wisp-a49a59.netlify.app/)
 
 ### Built with
 
@@ -144,4 +144,4 @@ For , use the grid. so that the scrollbar appears automatically overflow-x: auto
 
 ## Learning From :
 
-- Kevin Powell - [Kevin Powell](https://www.youtube.com/watch?v=LkZPd0oRlMQ&list=WL&index=46)"# resume-page" 
+- Kevin Powell - [Kevin Powell](https://www.youtube.com/watch?v=LkZPd0oRlMQ&list=WL&index=46)" 
